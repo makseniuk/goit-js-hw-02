@@ -1,5 +1,4 @@
 "use strict"
-
 function checkForSpam(message) {
 
     const lowercasedMessage = message.toLowerCase();
